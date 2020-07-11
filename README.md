@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm Kim!</h1>
+<h1> Hi there, I'm Kim! 👋</h1>
 
 I have background from operations and development with specialization within security. Currently working within technical security. I occasionally make stuff and sometimes that stuff is published here at GitHub.
 
