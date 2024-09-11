@@ -17,8 +17,7 @@ My name is Kim Syversen, and I'm a security professional with a diverse backgrou
 📫 Feel free to reach out to me on any of these platforms if you have any questions or just want to connect. I'm always open to discussing security, DevSecOps, cloud security, software architecture, or anything else related to the tech industry.
 
 - 🏢 LinkedIn: [linkedin.com/in/kimsyversen](https://www.linkedin.com/in/kimsyversen/)
-- 🐦 Twitter: [twitter.com/kimsyversen](https://twitter.com/kimsyversen)
-- 🐙 GitHub: [github.com/kimsyversen](https://github.com/kimsyversen)
+
 
 
 ## 📚 My Repositories
